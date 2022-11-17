@@ -1,0 +1,8 @@
+something here
+and here is more of nothing 
+something@gmail.com
+fake@email.com
+more stuff thats not emails
+anotherFakeEmail@myEmail.com
+more text here
+myEmail@gmail.com
